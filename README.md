@@ -1,4 +1,4 @@
-# CapstoneSentimentAnalysis
+# Topic Modeling and Sentiment Analysis
 ### IISc CCE AI/ML Capstone Project - Topic modeling and sentiment analysis based on user review data.
 
 Purpose: This project aims to take user reviews as inputs and figure out the following:
