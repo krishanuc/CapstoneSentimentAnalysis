@@ -1,2 +1,2 @@
 # CapstoneSentimentAnalysis
-IISc CCE AI/ML Capstone Project - Sentiment Analysis
+IISc CCE AI/ML Capstone Project - Topic based sentiment analysis
