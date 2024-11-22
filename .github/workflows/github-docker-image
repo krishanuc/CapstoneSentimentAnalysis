@@ -3,10 +3,10 @@ name: Build a container image and Push to GitHub Container Registry
 on:
   push:
     branches:
-      - airbnb-dataset  # Trigger workflow on pushes to the airbnb-dataset branch
+      - main  # Trigger workflow on pushes to the main branch
   pull_request:  # Optionally trigger on pull requests
     branches:
-      - airbnb-dataset
+      - main
 
 jobs:
   build-and-push:
